@@ -1,2 +1,3 @@
 # financial-horizon
 Financial Horizon is your comprehensive solution for managing finances. As a personalized financial assistant, it offers tailored advice, budgeting tools, investment recommendations, and real-time insights. Whether you’re tracking expenses, planning for retirement, or optimizing investments, Financial Horizon guides you toward confident financial decisions. Simplify your money matters with this all-in-one platform! 
+It also offers customer and content segmentation features , so that the customers of this feature can get personalized marketing materials, educational content and financial reports.
